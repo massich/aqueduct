@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from .context import my_module
+from .context import aqueduct
 
 import unittest
 
