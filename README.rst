@@ -1,13 +1,19 @@
-Python Module Skeleton
-======================
+Aqueduct module
+===============
 
-This is an adaptation of a sample Python module `skeleton`_
-used to help assist in making Python projects more easily.
+This python module is used to ease the setup for computer vision experiments
 
 Usage
 -----
 
-Download this repo and then adjust the files to your use for your project.
+TODO
+
+Usage Examples
+--------------
+
+Here can be found some repeatible research projects using this module:
+- Breast US segmentation: http://xxxx
+- Prostate CAD: http://xxxx
 
 License
 -------
@@ -16,4 +22,3 @@ Uses the `MIT`_ license.
 
 
 .. _MIT: http://opensource.org/licenses/MIT
-.. _skeleton: https://github.com/streeter/python-skeleton
